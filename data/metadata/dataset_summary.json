@@ -1,0 +1,13 @@
+{
+  "dataset": "strict",
+  "splits": {
+    "train": 1357,
+    "test": 342,
+    "test_gold": 189,
+    "test_silver": 153
+  },
+  "quality_tiers": {
+    "gold": "M-CSA curated catalytic residue annotations",
+    "silver_lit_or_structure": "reviewed UniProt ACT_SITE annotations supported by literature or structure evidence"
+  }
+}

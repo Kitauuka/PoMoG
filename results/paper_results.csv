@@ -1,0 +1,2 @@
+model,test_samples,test_aupr,test_auc,test_f1,test_mcc,test_top5,test_top10,gold_samples,gold_aupr,gold_auc,gold_f1,gold_mcc,gold_top5,gold_top10,silver_samples,silver_aupr,silver_auc,silver_f1,silver_mcc,silver_top5,silver_top10
+PoMoG,342,0.671153,0.986371,0.627719,0.624979,0.941520,0.964912,189,0.652929,0.983019,0.602604,0.603994,0.962963,0.989418,153,0.793463,0.993294,0.683060,0.691291,0.915033,0.934641

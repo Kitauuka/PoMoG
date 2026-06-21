@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+
+features/
+outputs/
+*.log
+
+models/Prot-T5-XL-U50/
+models/esmfold_3B_v1.pt
+models/ESM2/
+external_tools/
